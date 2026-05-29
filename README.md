@@ -9,7 +9,7 @@ I’m a **self-taught developer** passionate about building cool projects and so
 
 <div align="center">
   <a href="http://turbostrap.rf.gd">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=naklirajveerfr&repo=TurboStrap&theme=blue_navy" width="45%"/>
+    <img src="Turbostrap.jpg" width="400">
   </a>
 </div>
 

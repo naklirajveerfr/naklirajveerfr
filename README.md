@@ -1,30 +1,25 @@
-# hey, I'm Rajveer 👋
+# naklirajveerfr
 
-Self-taught developer who builds whatever sounds interesting.  
-Into Python tools, web projects, and Roblox game dev.
-
----
-
-## what I work with
-
-- **Python** — automation, tools, launchers, bots
-- **HTML / CSS / JS** — websites and web UIs
-- **Roblox / Luau** — game development
+self-taught. i build stuff that i think is cool.  
+python, web, roblox. no degree, no roadmap.
 
 ---
 
-## projects worth checking out
-
-| project | what it does |
-|---|---|
-| [Turbostrap Launcher](https://github.com/naklirajveerfr/Turbostrap-Launcher) | Custom Roblox bootstrapper focused on performance |
-| [Solarwakes Launcher](https://github.com/naklirajveerfr/solarwakes-launcher) | Minecraft launcher with accounts, friends & skin support |
-| [JARVIS](https://github.com/naklirajveerfr/JARVIS) | AI assistant powered by Groq |
-| [Web Crawler AI](https://github.com/naklirajveerfr/Web-Crawler-AI) | Searches the internet for information |
+```
+> languages   python · html · css · js · luau
+> current     solarwakes launcher · roblox projects
+> status      building
+```
 
 ---
 
-## find me
+## repos
 
-- 🌐 [llunixx-repacks.gamer.gd](https://llunixx-repacks.gamer.gd)
-- 📸 [@nakli_rajveer.a](https://www.instagram.com/nakli_rajveer.a)
+- **[Turbostrap](https://github.com/naklirajveerfr/Turbostrap-Launcher)** — roblox bootstrapper, performance focused
+- **[Solarwakes Launcher](https://github.com/naklirajveerfr/solarwakes-launcher)** — minecraft launcher i built from scratch
+- **[JARVIS](https://github.com/naklirajveerfr/JARVIS)** — ai assistant
+- **[Web Crawler AI](https://github.com/naklirajveerfr/Web-Crawler-AI)** — scrapes the web for answers
+
+---
+
+[site](https://llunixx-repacks.gamer.gd) · [instagram](https://www.instagram.com/nakli_rajveer.a)

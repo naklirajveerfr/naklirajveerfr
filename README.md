@@ -44,6 +44,8 @@ Feel free to reach out for collaborations or just to say hi!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" height="40" title="Lua"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" title="Firebase"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code"/>
+  <img src="https://camo.githubusercontent.com/0efc64e37dd0f93a3c27ea684cb918e90307e1fd720f46cf9c6b2635aaadedbf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" width="40" height="40" title="Linux"/>
+  
 </div>
 
 ---

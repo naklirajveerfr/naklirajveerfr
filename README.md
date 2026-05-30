@@ -9,7 +9,7 @@ I’m a **self-taught developer** passionate about building cool projects and so
 
 <div align="center">
   <a href="http://turbostrap.rf.gd">
-    <img src="Turbostrap.jpg" width="400">
+    <img src="image.png" width="400">
   </a>
 </div>
 

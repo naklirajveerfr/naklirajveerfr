@@ -16,10 +16,10 @@ I’m a **self-taught developer** passionate about building cool projects and so
 ---
 
 ### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=naklirajveerfr&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=naklirajveerfr&theme=blue_navy&hide_border=true" width="48%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=naklirajveerfr&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false" height="170" width="400" />
+  <img src="https://streak-stats.demolab.com/?user=naklirajveerfr&theme=blue_navy&hide_border=true" height="170" />
+</p>
 
 ---
 
@@ -33,7 +33,10 @@ Feel free to reach out for collaborations or just to say hi!
 
 ### 🛠 Tech Stack
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=naklirajveerfr&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="48%"/>
+    <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=naklirajveerfr&theme=blue_navy&hide_border=true&layout=compact"
+    width="400"
+  />
   <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/> &nbsp;
@@ -45,6 +48,3 @@ Feel free to reach out for collaborations or just to say hi!
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=naklirajveerfr&icon=0&color=0" alt="visitor count" />
-</div>

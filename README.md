@@ -13,6 +13,17 @@ I’m a **self-taught developer** passionate about building cool projects and so
   </a>
 </div>
 
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ### 📈 GitHub Stats

@@ -61,6 +61,9 @@ Feel free to reach out for collaborations or just to say hi!
      width="40" height="40" title="CSS3"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
      width="40" height="40" title="Git"/>
+
+  <img src="https://cdn.simpleicons.org/fabric" width="40" height="40" title="Fabric"/> &nbsp;
+ <img src="https://cdn.simpleicons.org/modrinth" width="40" height="40" title="Modrinth"/> &nbsp;
   
   
 </div>

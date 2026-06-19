@@ -64,7 +64,7 @@ Feel free to reach out for collaborations or just to say hi!
 
   <img src="https://fabricmc.net/assets/logo.png" width="40" height="40" title="Fabric"/> &nbsp;
  <img src="https://cdn.simpleicons.org/modrinth" width="40" height="40" title="Modrinth"/> &nbsp;
- <img src="https://static.wikia.nocookie.net/logopedia/images/3/35/Roblox_Studio_2022_icon.svg" width="40" height="40" title="Roblox Studio"/> &nbsp;
+ <img src="https://create.roblox.com/favicon.ico" width="40" height="40" title="Roblox Studio"/> &nbsp;
   
   
 </div>

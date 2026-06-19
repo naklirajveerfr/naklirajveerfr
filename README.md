@@ -62,7 +62,7 @@ Feel free to reach out for collaborations or just to say hi!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
      width="40" height="40" title="Git"/>
 
-  <img src="https://cdn.simpleicons.org/fabric" width="40" height="40" title="Fabric"/> &nbsp;
+  <img src="https://fabricmc.net/assets/logo.png" width="40" height="40" title="Fabric"/> &nbsp;
  <img src="https://cdn.simpleicons.org/modrinth" width="40" height="40" title="Modrinth"/> &nbsp;
   
   

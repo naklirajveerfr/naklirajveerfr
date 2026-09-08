@@ -6,13 +6,8 @@ I’m a **self-taught developer** passionate about building cool projects and so
 
 
 ### ⏳ Currently Working On
-*I am currently developing **TurboStrap**, a custom Roblox bootstrapper. Check it out here:* [turbostrap.rf.gd](http://turbostrap.rf.gd)
-
-<div align="center">
-  <a href="http://turbostrap.rf.gd">
-    <img src="image.png" width="400">
-  </a>
-</div>
+*I am currently developing a Minecraft Shaderpack Based on Chocapic13*.
+You can check my other minecraft work right [here](https://modrinth.com/user/naklirajveer)!
 
 
 
